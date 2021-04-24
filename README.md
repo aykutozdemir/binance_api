@@ -13,7 +13,7 @@ In LibreOffice, go to `Tools -> Extension Manager -> Add` and select the
 
 ## Usage
 
-Simply pass your trading pair to the `BINANCEPRICE` function:
+Simply pass your trading pair to the functions:
 
     =BINANCEPRICE("ROSEUSDT")      // Current price of ROSEUSDT
     =BINANCEHIGHPRICE("ROSEUSDT")  // Highest price of ROSEUSDT in last 24 hr
